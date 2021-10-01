@@ -48,7 +48,7 @@ namespace Assignment02_QA
             return Width;
         }
 
-        public int SetHeight()
+        public int GetHeight()
         {
             return Height;
         }
